@@ -1,0 +1,10 @@
+D:\Project\WinFormsElcoplus\WinFormsElcoplus\bin\Debug\WinFormsElcoplus.exe.config
+D:\Project\WinFormsElcoplus\WinFormsElcoplus\bin\Debug\WinFormsElcoplus.exe
+D:\Project\WinFormsElcoplus\WinFormsElcoplus\bin\Debug\WinFormsElcoplus.pdb
+D:\Project\WinFormsElcoplus\WinFormsElcoplus\obj\Debug\WinFormsElcoplus.csprojAssemblyReference.cache
+D:\Project\WinFormsElcoplus\WinFormsElcoplus\obj\Debug\WinFormsElcoplus.Form1.resources
+D:\Project\WinFormsElcoplus\WinFormsElcoplus\obj\Debug\WinFormsElcoplus.Properties.Resources.resources
+D:\Project\WinFormsElcoplus\WinFormsElcoplus\obj\Debug\WinFormsElcoplus.csproj.GenerateResource.cache
+D:\Project\WinFormsElcoplus\WinFormsElcoplus\obj\Debug\WinFormsElcoplus.csproj.CoreCompileInputs.cache
+D:\Project\WinFormsElcoplus\WinFormsElcoplus\obj\Debug\WinFormsElcoplus.exe
+D:\Project\WinFormsElcoplus\WinFormsElcoplus\obj\Debug\WinFormsElcoplus.pdb
